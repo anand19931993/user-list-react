@@ -1,0 +1,34 @@
+{
+  "userlist": [
+    {
+      "id": 1,
+      "first_name": "anand",
+      "username": "anand1993",
+      "email": "anandiyengar0@gmail.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Jane",
+      "username": "Jane1234",
+      "email": "janedoe@abc.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Alice",
+      "username": "al134",
+      "email": "alicedoe@abc.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Bob",
+      "username": "builder777",
+      "email": "bobdoe@gmail.com"
+    },
+    {
+      "id": 5,
+      "first_name": "Xyz Abc",
+      "username": "xa12",
+      "email": "xyz@gmail.com"
+    }
+  ]
+}

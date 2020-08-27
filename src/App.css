@@ -1,0 +1,12 @@
+.bg-cust{
+  background:#1189b6;
+}
+
+.footer-cust{
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  padding-top: 10px;
+  padding-left: 20px;
+  color: white;
+}
